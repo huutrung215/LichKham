@@ -1,0 +1,48 @@
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.deps.json
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.csproj.AssemblyReference.cache
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.AssemblyInfoInputs.cache
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.AssemblyInfo.cs
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.csproj.CoreCompileInputs.cache
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\refint\Aulac.Service.Rsc.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\ref\Aulac.Service.Rsc.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.deps.json
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.csproj.AssemblyReference.cache
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.AssemblyInfoInputs.cache
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.AssemblyInfo.cs
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.csproj.CoreCompileInputs.cache
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\refint\Aulac.Service.Rsc.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\ref\Aulac.Service.Rsc.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.deps.json
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.csproj.AssemblyReference.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.AssemblyInfoInputs.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.AssemblyInfo.cs
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.csproj.CoreCompileInputs.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\refint\Aulac.Service.Rsc.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\ref\Aulac.Service.Rsc.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.deps.json
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\bin\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.csproj.AssemblyReference.cache
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.AssemblyInfoInputs.cache
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.AssemblyInfo.cs
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.csproj.CoreCompileInputs.cache
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\refint\Aulac.Service.Rsc.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham.Common\Aulac.Service.Rsc\obj\Debug\net6.0\ref\Aulac.Service.Rsc.dll

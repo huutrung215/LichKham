@@ -1,0 +1,17 @@
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\bin\Release\net6.0\AulacLichKham.Modules.deps.json
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\bin\Release\net6.0\AulacLichKham.Modules.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\bin\Release\net6.0\AulacLichKham.Modules.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\bin\Release\net6.0\Aulac.Service.Global.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\bin\Release\net6.0\Aulac.Service.Rsc.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\bin\Release\net6.0\Aulac.Service.Global.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\bin\Release\net6.0\Aulac.Service.Rsc.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\obj\Release\net6.0\AulacLichKham.Modules.csproj.AssemblyReference.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\obj\Release\net6.0\AulacLichKham.Modules.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\obj\Release\net6.0\AulacLichKham.Modules.AssemblyInfoInputs.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\obj\Release\net6.0\AulacLichKham.Modules.AssemblyInfo.cs
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\obj\Release\net6.0\AulacLichKham.Modules.csproj.CoreCompileInputs.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\obj\Release\net6.0\AulacLichKham.Modules.csproj.CopyComplete
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\obj\Release\net6.0\AulacLichKham.Modules.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\obj\Release\net6.0\refint\AulacLichKham.Modules.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\obj\Release\net6.0\AulacLichKham.Modules.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Modules\obj\Release\net6.0\ref\AulacLichKham.Modules.dll

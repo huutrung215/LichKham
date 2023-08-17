@@ -1,0 +1,196 @@
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\appsettings.Development.json
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\appsettings.json
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.exe
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.deps.json
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.runtimeconfig.json
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.pdb
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.AssemblyReference.cache
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.AssemblyInfoInputs.cache
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.AssemblyInfo.cs
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.CoreCompileInputs.cache
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.MvcApplicationPartsAssemblyInfo.cs
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.MvcApplicationPartsAssemblyInfo.cache
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.AulacLichKham.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.build.AulacLichKham.props
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AulacLichKham.props
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AulacLichKham.props
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.pack.json
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\scopedcss\bundle\AulacLichKham.styles.css
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.CopyComplete
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\refint\AulacLichKham.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.pdb
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.genruntimeconfig.cache
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\obj\Debug\net6.0\ref\AulacLichKham.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AutoMapper.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Dapper.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Global.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.Modules.dll
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.Modules.pdb
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Global.pdb
+D:\My Project\AulacLichKham\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\appsettings.Development.json
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\appsettings.json
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.exe
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.deps.json
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.runtimeconfig.json
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.pdb
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AutoMapper.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Dapper.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Global.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.Modules.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.Modules.pdb
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Global.pdb
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.AssemblyReference.cache
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.AssemblyInfoInputs.cache
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.AssemblyInfo.cs
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.CoreCompileInputs.cache
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.MvcApplicationPartsAssemblyInfo.cs
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.MvcApplicationPartsAssemblyInfo.cache
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.AulacLichKham.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.build.AulacLichKham.props
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AulacLichKham.props
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AulacLichKham.props
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.build.json
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.development.json
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\scopedcss\bundle\AulacLichKham.styles.css
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.CopyComplete
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\refint\AulacLichKham.dll
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.pdb
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.genruntimeconfig.cache
+D:\Aulacsoft\WebserviceLichKhamAulac\AulacLichKham\AulacLichKham\obj\Debug\net6.0\ref\AulacLichKham.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\appsettings.Development.json
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\appsettings.json
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.exe
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.deps.json
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.runtimeconfig.json
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AutoMapper.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Dapper.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Global.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.Modules.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.Modules.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Global.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.AssemblyReference.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.AssemblyInfoInputs.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.AssemblyInfo.cs
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.CoreCompileInputs.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.MvcApplicationPartsAssemblyInfo.cs
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.MvcApplicationPartsAssemblyInfo.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.AulacLichKham.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.build.AulacLichKham.props
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AulacLichKham.props
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AulacLichKham.props
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.build.json
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.development.json
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\scopedcss\bundle\AulacLichKham.styles.css
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.CopyComplete
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\refint\AulacLichKham.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.genruntimeconfig.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\obj\Debug\net6.0\ref\AulacLichKham.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\appsettings.Development.json
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\appsettings.json
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.exe
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.deps.json
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.runtimeconfig.json
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.pdb
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AutoMapper.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Dapper.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Global.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Rsc.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.Modules.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\AulacLichKham.Modules.pdb
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Global.pdb
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\bin\Debug\net6.0\Aulac.Service.Rsc.pdb
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.AssemblyReference.cache
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.AssemblyInfoInputs.cache
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.AssemblyInfo.cs
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.CoreCompileInputs.cache
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.MvcApplicationPartsAssemblyInfo.cs
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.MvcApplicationPartsAssemblyInfo.cache
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.AulacLichKham.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.build.AulacLichKham.props
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AulacLichKham.props
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AulacLichKham.props
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.build.json
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\staticwebassets.development.json
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\scopedcss\bundle\AulacLichKham.styles.css
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.csproj.CopyComplete
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\refint\AulacLichKham.dll
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.pdb
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\AulacLichKham.genruntimeconfig.cache
+D:\AuLacLichKham1\AulacLichKham\AulacLichKham\obj\Debug\net6.0\ref\AulacLichKham.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q2EtTNBUMFFMTF7DTHHqlvsmo9TMlxmgBvUiwABhS+tQxzrCqQXtegd6z+ZJucATfdSN6OAZ8SvTemCp/eGV4A==",
+  "success": true,
+  "projectFilePath": "D:\\AuLacLichKham1\\AulacLichKham\\AulacLichKham.Modules\\AulacLichKham.Modules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512"
+  ],
+  "logs": []
+}

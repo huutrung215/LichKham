@@ -1,0 +1,12 @@
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\bin\Release\net6.0\Aulac.Service.Global.deps.json
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\bin\Release\net6.0\Aulac.Service.Global.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\bin\Release\net6.0\Aulac.Service.Global.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\obj\Release\net6.0\Aulac.Service.Global.csproj.AssemblyReference.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\obj\Release\net6.0\Aulac.Service.Global.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\obj\Release\net6.0\Aulac.Service.Global.AssemblyInfoInputs.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\obj\Release\net6.0\Aulac.Service.Global.AssemblyInfo.cs
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\obj\Release\net6.0\Aulac.Service.Global.csproj.CoreCompileInputs.cache
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\obj\Release\net6.0\Aulac.Service.Global.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\obj\Release\net6.0\refint\Aulac.Service.Global.dll
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\obj\Release\net6.0\Aulac.Service.Global.pdb
+D:\ThamKhaoCode\AulacLichKham\AulacLichKham.Common\Aulac.Service.Global\obj\Release\net6.0\ref\Aulac.Service.Global.dll
